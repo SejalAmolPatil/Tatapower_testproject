@@ -1,3 +1,3 @@
 # Tatapower_testproject
 First Git Project<br>
-Author : Sejal Patil
+Author : Sejal Patil - GET
